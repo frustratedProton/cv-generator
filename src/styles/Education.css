@@ -1,0 +1,7 @@
+.eduContainer {
+  display: flex;
+  flex: 1;
+  padding: 1rem;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+}
